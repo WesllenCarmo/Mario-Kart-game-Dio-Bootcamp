@@ -44,5 +44,5 @@ async function rollDice() {
   return Math.floor((Math.random() * 6) + 1);
 }
 (async function main() {
-  console.log("hello");
+  console.log(`🏁🚨 Corrida entre ${player1.name} e ${player5.name} começando... \n`);
 })();
